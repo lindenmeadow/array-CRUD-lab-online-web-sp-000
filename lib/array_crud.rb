@@ -8,7 +8,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["Max", "Copper", "Rudy", "Mac"] << "Rover"
-
 end
 
 def add_element_to_start_of_array(array, element)
